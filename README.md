@@ -2,7 +2,8 @@
 
 ## 1. Финансовая и продуктовая аналитика продаж на Wildberries (Power BI)
 
-📂 **Файл отчёта:** [Скачать wb_analytics_pulman.pbix](wb_analytics_pulman.pbix)
+📂 **Файл отчёта:** [Скачать wb_analytics_pulman.pbix](https://github.com/VictoriaPulman/projects/raw/refs/heads/main/wb_analytics_pulman.pbix
+)
 
 Дашборд в **Microsoft Power BI** для анализа юнит-экономики, выручки, удержаний маркетплейса, возвратов и динамики продаж по артикулам и регионам.
 
