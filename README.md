@@ -38,7 +38,7 @@
 
 ## 2. Комплексная аналитика продаж, ABC-анализ ассортимента и оценка менеджеров (Power BI)
 
-📂 **Файл отчёта:** [Скачать sales_analytics_pulman.pbix](https://github.com/VictoriaPulman/projects/raw/refs/heads/main/sales_analytics_pulman.pbix
+📂 **Файл отчёта:** [Скачать sales_analytics_pulman.pbix](https://github.com/VictoriaPulman/projects/raw/refs/heads/main/sales_analytics_pulman.pbix)
 
 Одностраничный управленческий дашборд в **Microsoft Power BI** для анализа выручки, рентабельности, клиентских сегментов, ABC-структуры ассортимента и убыточных сделок по менеджерам.
 
